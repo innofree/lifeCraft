@@ -31,3 +31,8 @@
 # Debug files
 *.dSYM/
 *.su
+
+# World Map
+world/
+world_nether/
+world_the_end/
